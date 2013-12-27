@@ -3,4 +3,7 @@
   <data-source source="LOCAL" name="Rails treebook: development" uuid="54b032a2-3db6-4ead-a03a-ac45c087b7c3">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails treebook: test" uuid="26dcdc7a-4c71-47d8-b34c-559eb08ed1bb">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>

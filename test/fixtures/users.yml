@@ -1,1 +1,13 @@
+kp:
+  first_name: "Kapatrick"
+  last_name: "Whitfield"
+  email: "kwhit@hotmail.com"
+  profile_name: "KP"
+  encrypted_password: "C0nsert!"
 
+lbj:
+  first_name: "Lebron"
+  last_name: "James"
+  email: "kwhite@hotmail.com"
+  profile_name: "King James"
+  encrypted_password: "C0nsert!"
