@@ -1,11 +1,9 @@
-
-
 <div class="row">
-    <div class="span4">
+    <div class="col-lg-4">
         <%= simple_form_for(resource, :as => resource_name, :url => session_path(resource_name), html: {class: "well"}) do |f| %>
 
           <fieldset>
-                <legend>Sign In</legend>
+            <legend>Sign In</legend>
             <%= f.input :email %>
             <%= f.input :password %>
 
@@ -15,12 +13,13 @@
 
             <div><%= f.button :submit, "Sign in" %></div>
           </fieldset>
+
         <% end %>
 
         <%= render "devise/shared/links" %>
     </div>
 
-    <div class="span8">
+    <div class="col-lg-8">
       <h2>Signing in is easy and secure</h2>
     </div>
 </div>
