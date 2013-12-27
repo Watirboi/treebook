@@ -110,6 +110,8 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
   </component>
@@ -157,6 +159,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, rbenv: 1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.13, rbenv: 1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.6, rbenv: 1.9.3-p429) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simple_form (v2.0.4, rbenv: 1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.2.2, rbenv: 1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.8, rbenv: 1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, rbenv: 1.9.3-p429) [gem]" level="application" />
